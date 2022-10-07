@@ -7,16 +7,13 @@ components.html(
  <html>
     <head>
         <title>my work</title>
-        <script src="hack.js"></script>
+        <script src="index.js"></script>
     </head>
         <body><i><b></b></i>
             <div id = "myid" ><i></i></div>
             <br>
         <textarea  id = "mytextid"></textarea>
         <button onclick="myname();">send</button>
-        </body>
-</html>
-
 <h5>ask your doubts in the textbox</h5>
 <h1>monkeys</h1>
 <body><h2 style="color:black;"> monkeys are naughty creatures, who love to play around and terrorize people and other animals! <br>
@@ -48,11 +45,11 @@ components.html(
     Apes are sometimes mistaken for monkeys but they actually aren’t monkeys.
     <br>
     <img src="https://imgs.search.brave.com/NMpcXXEDJTtsNOJuuQKonb1Xs20ORIFtX98s6T1TPN0/rs:fit:1080:1200:1/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/cTAzcHAyaXYxZ2sx/MS5qcGc_YXV0bz13/ZWJwJnM9NmFmZDhi/NDg4MjQ0YTY2MzM0/ZWFiMjI2NTRkNjQ2/MzE3ZTRkY2Q5MQ" alt="Just took this photo of a very handsome monkey in a zoo." height="200">
-</h2>  </body>
+</h2> 
     <br>
     <br>
     <h1>snakes</h1>
-    <body><h2>Snakes are reptiles. They are part of the order Squamata. They are carnivores, with long narrow bodies and no legs. There are at least 20 families, about 500 genera and 3,400 species of snake.
+    <h2>Snakes are reptiles. They are part of the order Squamata. They are carnivores, with long narrow bodies and no legs. There are at least 20 families, about 500 genera and 3,400 species of snake.
 
         The earliest known fossils are from the Jurassic period. This was between 143 and 167 million years ago.
         
@@ -71,4 +68,4 @@ components.html(
     </html>
 
 
-""",height=600,)
+""",height=None,scrolling=Truoe)
