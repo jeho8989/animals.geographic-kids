@@ -68,4 +68,4 @@ components.html(
     </html>
 
 
-""",height=None,scrolling=True)
+""",height=1000,scrolling=True)
